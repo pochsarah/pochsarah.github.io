@@ -350,6 +350,7 @@ a.navbar-item.is-active {
     .content {
         ul, ol, blockquote {
             display: inline-block;
+            text-align: justify;
         }
     }
 }
