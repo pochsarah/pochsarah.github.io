@@ -11,5 +11,5 @@ University of South Brittany - Vannes, France
 * **2016-2018 : First year common curriculum in health**<br>
 University of Montpellier - Montpellier, France
 * **2014-2015 : Classe Préparatoire MPSI (Mathematics, Physics and Engineering Sc)**<br>
-Lycée Naval de Brest, France<br>
+Lycée Naval de Brest, France
 * **2014 : Baccalauréat Scientifique (equivalent to A-levels in Mathematics, Biology and Physics)**
