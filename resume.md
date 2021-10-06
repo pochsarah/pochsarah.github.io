@@ -31,7 +31,7 @@ Shelf placement, products labelling, handling work - Crit Intérim France
 
 ### Digital Skills 
 * **Programming languages :** Python, Java, JavaScript, C++, HTML, PHP, MySQL, CSS, LaTeX. 
-*  **Basics in :** C, Bash, Prolog, Maya. 
+*  **Basics of :** C, Bash, Prolog, Maya. 
 * Windows, Linux
 * AppInventor
 
