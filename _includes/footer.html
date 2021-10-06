@@ -13,6 +13,7 @@
                         <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
                             <figure class="image is-64x64">
                                 <img class="is-rounded" src="{{site.author-image}}">
+                                <!--<img src="https://www.master-cde.eu/cde/wp-content/uploads/2018/10/CMIDE-logoCMYK-278x300.jpg" width="100"/>-->
                             </figure>
                         </div>
                         <div class="column is-marginless">
@@ -23,12 +24,21 @@
                         </div>
                     </div>
                 </a>
-            </div>
+            </div> 
 
-            <div>
-                <figure>
-                    <img src="https://www.univ-ubs.fr/_contents-images/ametys-internal%253Asites/wwwdev/ametys-internal%253Acontents/normes-graphiques-article/_metadata/content/_data/UBS-LOGO-RVB-Fd-Transparent.png_150x212"/>
-                </figure>
+            <div class="column has-text centered">
+                <div>
+                    <figure>
+                        <img src="https://www.master-cde.eu/cde/wp-content/uploads/2018/10/CMIDE-logoCMYK-278x300.jpg" width="100"/>
+                    </figure>
+                </div>
+            </div>
+            <div class="column is-centered-mobile">
+                <div>
+                    <figure>
+                        <img src="https://www.univ-ubs.fr/_contents-images/ametys-internal%253Asites/wwwdev/ametys-internal%253Acontents/normes-graphiques-article/_metadata/content/_data/UBS-LOGO-RVB-Fd-Transparent.png_150x212" width="100"/>
+                    </figure>
+                </div>
             </div>
 
             <!--Link Section-->
@@ -47,14 +57,14 @@
             </div> -->
 
             <!--Blog-post Section-->
-            <div class="column has-text-white">
+            <!-- <div class="column has-text-white">
                 <h3>Recent Posts</h3>
                 {% for post in site.posts offset: 0 limit:3 %}
                 <li>
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>
                 </li>
                 {% endfor %}
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
