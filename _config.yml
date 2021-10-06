@@ -19,15 +19,15 @@ favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 #heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-heroimage: https://cdn.pixabay.com/photo/2021/08/21/11/29/kingfisher-6562537_960_720.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_960_720.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: /
 facebook_username: /
-twitter_username: /
-instagram_username: / 
+#twitter_username: /
+#instagram_username: / 
 linkedin_username: sarah-poch
-github_username: /
+github_username: pochsarah
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -42,7 +42,7 @@ author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-pictu
 # 60 Words About the Author
 author-about: Welcome to my e-portofolio ! My name is Sarah Poch and I am a student from EMJMD – Copernicus in Digital Earth. After my Bsc in Computer Science, I have decided to join this double master degree and study GeoData Science. This track is hosted by the University of Salzburg (Austria) and the University of South Brittany (France). 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/
+author-url: https://github.com/pochsarah
 
 # SASS
 sass:
