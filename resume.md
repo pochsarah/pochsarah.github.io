@@ -38,3 +38,7 @@ Shelf placement, products labelling, handling work - Crit Intérim France
 ### First Aid 
 * **2020 : PSC1 (Certificat Prévention et Secours Civiques niveau 1)** <br>
 First aid certificat
+
+---
+
+You can download my resume here in English and [here](cv_fr.pdf) in French.
