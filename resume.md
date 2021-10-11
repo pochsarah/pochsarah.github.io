@@ -41,4 +41,4 @@ First aid certificat
 
 ---
 
-You can download my resume here in English and [here](cv_fr.pdf) in French.
+You can download my resume here (English) and [here](cv_fr.pdf)  (French).
