@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Sarah Poch
 # Description of the Site
-description: An e-portofolio 
+description: An e-portfolio 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -40,7 +40,7 @@ author-name: Sarah Poch
 # URL for the Image of the Author
 author-image: ./assets/images/profil.jpeg
 # 60 Words About the Author
-author-about: Welcome to my e-portofolio ! My name is Sarah Poch and I am a student from EMJMD – Copernicus in Digital Earth. After my Bsc in Computer Science, I have decided to join this double master degree and study GeoData Science. This track is hosted by the University of Salzburg (Austria) and the University of South Brittany (France). 
+author-about: Welcome to my e-portfolio! My name is Sarah Poch and I am a student from EMJMD – Copernicus in Digital Earth. After my BSc in Computer Science, I have decided to join this double master’s degree and study Geodata Science. This track is hosted by the University of Salzburg (Austria) and the University of South Brittany (France). 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/pochsarah
 
