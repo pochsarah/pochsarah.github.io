@@ -21,7 +21,7 @@ Leading 32 girls between 12 and 17 during a year and organising summer camp (ani
 with a team of assistants, in France (2018-today) and Austria (2021-today).
 * **2015-2021 : Babysitter/Home tutoring** <br>
 Baby-sitting, doing home work with children, home tutoring in Mathematics and Physics.
-* **2018-2019 : Temporary employement**<br>
+* **2018-2019 : Temporary employment**<br>
 Shelf placement, products labelling, handling work - Crit Intérim France
 
 ## Competences 
