@@ -13,5 +13,4 @@ Also, from a GIS point of view, a guided practice on QGIS shown the importance o
 The benefits of the spring school were the improvement of my historical and literary knowledge. This more artistical point of view is very interesting and opens the discussion on how our predecessors saw the world. It also improved my QGIS basic skills.
 
 ------
-
-![spring school](./assets/images/iss_vis.png)
+<img src="./assets/images/iss_vis.png" width="600" height="100">
