@@ -1,7 +1,6 @@
 ---
 title: Analysis and Modelling
 layout: post
-post-image: "../assets/images/thematic.png"
 tags:
 - semester2
 ---
