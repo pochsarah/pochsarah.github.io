@@ -1,6 +1,7 @@
 ---
 title: 'Spatial Analysis : Terrain'
 layout: post
+post-image: "../assets/images/salzburg.jpg"
 tags:
 - semester1
 - spatialanalysis
