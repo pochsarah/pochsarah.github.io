@@ -1,6 +1,7 @@
 ---
 title: Template Matching
 layout: post
+post-image: "../assets/images/salzburg.jpg"
 tags:
 - semester2
 - analysis&modelling
