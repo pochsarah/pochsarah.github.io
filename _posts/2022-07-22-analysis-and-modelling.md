@@ -1,5 +1,5 @@
 ---
-title: Template Matching
+title: 'Analysis & Modelling : Template Matching'
 layout: post
 post-image: "../assets/images/salzburg.jpg"
 tags:
