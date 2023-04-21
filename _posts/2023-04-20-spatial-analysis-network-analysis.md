@@ -1,7 +1,7 @@
 ---
 title: 'Spatial Analysis : Network Analysis'
 layout: post
-post-image: https://pixabay.com/fr/vectors/m%c3%a9dias-sociaux-connexions-3846597/
+post-image: "../assets/images/network.png"
 tags:
 - spatialanalysis
 - semester1
